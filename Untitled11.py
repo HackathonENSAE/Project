@@ -4,6 +4,6 @@
 # In[ ]:
 
 
-print("file2")
-print("lol")
+a=100
+print(a)
 
