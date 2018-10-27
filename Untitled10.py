@@ -16,13 +16,13 @@ print (lettresuivante("z"))
 print (lettresuivante ("m"))
 
 
-d={"chat":[30,20], "giraffe":[20,10],"aspicot":[122,27], "grotadmorv":[50,22]}
+d={"chat":[30,20], "gorille":[20,10],"aspicot":[122,27], "grotadmorv":[50,22]}
 
 d3=sorted(d.items(), key=lambda kv:max(kv[1]))
 
 print(d3)
 
-mots = ['eddueardo', 'catelyn', 'robb', 'sansa', 'arya', 'brandon',
+mots = ['eddueardo2', 'catelyn2', 'robb', 'sansa', 'arya', 'brandon',
         'rickon', 'theon', 'rorbert', 'cersei', 'tywin', 'jaime',
         'tyrion', 'shae', 'bronn', 'lancel', 'joffrey', 'sandor',
         'varys', 'renly', 'a' ]
