@@ -23,7 +23,9 @@ d3=sorted(d.items(), key=lambda kv:max(kv[1]))
 print(d3)
 
 
+
 mots = ['eddueardo999', 'catelyn999', 'robb', 'sansa', 'arya', 'brandon',
+
 
         'rickon', 'theon', 'rorbert', 'cersei', 'tywin', 'jaime',
         'tyrion', 'shae', 'bronn', 'lancel', 'joffrey', 'sandor',
