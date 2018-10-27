@@ -22,7 +22,7 @@ d3=sorted(d.items(), key=lambda kv:max(kv[1]))
 
 print(d3)
 
-mots = ['eddard', 'catelyn', 'robb', 'sansa', 'arya', 'brandon',
+mots = ['eddueardo', 'catelyn', 'robb', 'sansa', 'arya', 'brandon',
         'rickon', 'theon', 'rorbert', 'cersei', 'tywin', 'jaime',
         'tyrion', 'shae', 'bronn', 'lancel', 'joffrey', 'sandor',
         'varys', 'renly', 'a' ]
